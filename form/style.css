@@ -75,3 +75,25 @@ form {
     color: #fff;
     font-size: bold;
 }
+.formulario-check {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+    margin: 10rem 50rem;
+    padding: 2.5rem;
+    border: 1px solid #ccc;
+    border-radius: .5rem;
+    background: #fff;
+}
+
+.formulario-check form div input{
+    border: 1px solid #ccc;
+    border-radius: .25rem;
+    padding: .25rem;
+}
+
+.formulario-check .centro {
+    margin: 1rem 0
+}
