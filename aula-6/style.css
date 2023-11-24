@@ -30,8 +30,7 @@ nav {
 
 h1 , a {
     color: #fff;
-    text-decoration: none;
-    
+    text-decoration: none;    
 }
 
 .formulario {
@@ -58,10 +57,7 @@ h1 , a {
         background: #fff;
     }
 
-
 }
-
-
 
 .pesquisa {
     width: 100%;
